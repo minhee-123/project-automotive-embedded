@@ -1,4 +1,4 @@
-**📂 V-Model 프로세스 산출물 (문서)**
+**📑 V-Model 프로세스 산출물**
 ```
 docs/
 ├── V-Model 1: 고객 요구사항 (Customer Requirements)
