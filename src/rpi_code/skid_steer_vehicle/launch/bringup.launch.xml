@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="joy" exec="joy_node">
+	<param name="deadzone" value="0.08"/>
+    </node>
+    <node pkg="skid_steer_vehicle" exec="state_manager"/>
+    <node pkg="skid_steer_vehicle" exec="topic_to_frame"/>
+    <node pkg="skid_steer_vehicle" exec="frame_to_topic"/>
+    <node pkg="skid_steer_vehicle" exec="tcp_sender"/>
+    <include file="$(find-pkg-share ros2_socketcan)/launch/socket_can_bridge.launch.xml"/>
+</launch>
