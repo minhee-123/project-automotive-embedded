@@ -1,4 +1,4 @@
-# TC375 MCU 기반 자율주차 RC카 시스템
+# TC375 MCU 기반 자율주차 RC카 시스템 
 🚗**Original Repository**: [autonomous-skid-steer-vehicle](https://github.com/team-2niverse/autonomous-skid-steer-vehicle.git) 
 
 <br>
