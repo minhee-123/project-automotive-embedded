@@ -44,11 +44,11 @@
 <img width="695" height="452" alt="image" src="https://github.com/user-attachments/assets/853611bc-3c33-4ff3-8186-87814f7b1c70" />
 <br>
 
-**Key Software Modules**<br>
+**Key SW Modules**<br>
 <img width="711" height="338" alt="image" src="https://github.com/user-attachments/assets/a006ecf3-2387-4a2b-b0d2-38d2cb1375c0" />
 <br>
 
-**Software Flowchart**<br>
+**SW Flowchart**<br>
 <img width="751" height="577" alt="image" src="https://github.com/user-attachments/assets/e2606a21-f295-4c19-9492-7fe8fa226f6e" />
 
 
